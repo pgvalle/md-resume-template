@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, in pertinax aliquando omittantur eum. Tritani suscip
 # Education  
 
 ## Bachelor’s in Rocket Science — Horvord  
-🗓 *Month/Year - Expected graduation: Month/Year*  
+*Month/Year - Expected graduation: Month/Year*  
 
 ## Additional Courses  
 Pothyn brogramming course  

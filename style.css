@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    line-height: 1.2;
+    margin: 20px;
+    padding: 0;
+    max-width: 800px;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-size: 14px;
+    margin-bottom: 5px;
+    /*border-bottom: 1px solid #444;*/
+}
+
+h3 {
+    font-size: 12px;
+    margin-bottom: 2px;
+}
+
+p, li {
+    margin: 2px 0;
+}
+
+ul {
+    padding-left: 15px;
+}
+
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: #555;
+    margin: 10px 0;
+}
+
+.contact-info {
+    font-size: 11px;
+    margin-bottom: 10px;
+}
+
+.section {
+    margin-bottom: 8px;
+}
+
+.small-text {
+    font-size: 10px;
+    color: #555;
+}
